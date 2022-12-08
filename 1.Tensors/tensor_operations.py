@@ -1,3 +1,5 @@
+# 참고 : https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/1.Tensors.md
+
 import torch
 import numpy as np
 
