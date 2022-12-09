@@ -25,6 +25,6 @@ conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit
 
 ## [1. 기본적인 텐서 연산](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/1.Tensors.md)
 
-기본적인 텐서 생성, 변환, 연산(곱, 행렬곱, 합), 접근에 관한 예제입니다.
+기본적인 텐서 생성, 변환, 연산(곱, 행렬곱, 합), 접근, 형태 변환 등에 관한 예제입니다.
 
 
