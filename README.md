@@ -28,3 +28,6 @@ conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit
 기본적인 텐서 생성, 변환, 연산(곱, 행렬곱, 합), 접근, 형태 변환 등에 관한 예제입니다.
 
 
+## [2. DataLoader](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/2.Dataloader.md)
+
+파이토치에서 학습/추론시 배치별 데이터 생성을 위한 DataLoader에 관한 예제입니다.
