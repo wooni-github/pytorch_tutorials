@@ -31,7 +31,7 @@ class ToTensorMine:
         # Pytorch tensor형태로 데이터셋 변환
         inputs, labels = sample
         inputs = torch.FloatTensor(inputs)
-        inputs = inputs.permute(2, 0, 1) # [ W H C ] => [ C, W ,H ]
+        inputs = inputs.permute(2, 0, 1) # [ H W C ] => [ C, H ,W ]
         return inputs, torch.LongTensor(labels)
 
 class LinearTensor:
