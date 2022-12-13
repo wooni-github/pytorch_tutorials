@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2175">
-                <caret line="117" selection-start-line="117" selection-end-line="117" />
+              <first_editor relative-caret-position="375">
+                <caret line="96" column="205" lean-forward="true" selection-start-line="96" selection-start-column="205" selection-end-line="96" selection-end-column="205" />
               </first_editor>
               <second_editor />
             </state>
@@ -499,8 +498,8 @@
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2175">
-            <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <first_editor relative-caret-position="375">
+            <caret line="96" column="205" lean-forward="true" selection-start-line="96" selection-start-column="205" selection-end-line="96" selection-end-column="205" />
           </first_editor>
           <second_editor />
         </state>
