@@ -21,6 +21,7 @@ conda env create --file environment.yaml
 conda create -n pytorch_tutorials python=3.8
 conda activate pytorch_tutorials
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
+pip install matplotlib
 ```
 
 ## [1. Tensor operations, reshape](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/1.Tensors.md)
