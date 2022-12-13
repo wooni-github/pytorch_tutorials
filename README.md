@@ -33,7 +33,7 @@ conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit
 파이토치에서 학습/추론시 배치별 데이터 생성을 위한 `DataLoader`에 관한 예제입니다.
 
 
-## [3. SimpleExamples](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/3.SimpleExamples.md)
+## [3. SimpleExamples](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.SimpleExamples.md)
 
 본격적인 **SOTA**를 살펴보기 전, 간단한 예제들을 통해 파이토치의 여러가지 기능을 사용해보는 예제입니다.
 
