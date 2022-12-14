@@ -7,9 +7,8 @@ ex) Classification, Detection, Segmentation, Regression, GAN, ...
 
 ## 기본적인 개발 환경 구성 (RTX3090 : CUDA, CuDNN, Windows10에서 작업)
 
-22.12.08 현재, 파이토치 설치만으로 예제 코드 동작 가능합니다.
 
-```
+```bash
 git clone https://github.com/wooni-github/pytorch_tutorials
 cd <다운 위치>
 conda env create --file environment.yaml
@@ -17,11 +16,24 @@ conda env create --file environment.yaml
 
 혹은 (torch만 각 환경에 맞게 설정)
 
-```
+```bash
 conda create -n pytorch_tutorials python=3.8
 conda activate pytorch_tutorials
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 pip install matplotlib
+pip install torchsummary
+```
+
+<br>
+
+**Requirements**
+
+```bash
+pytorch
+torchvision
+torchsummary
+numpy
+matplotlib
 ```
 
 ## [1. Tensor operations, reshape](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/1.Tensors.md)
@@ -39,8 +51,14 @@ pip install matplotlib
 본격적인 **SOTA**를 살펴보기 전, 간단한 예제들을 통해 파이토치의 여러가지 기능을 사용해보는 예제입니다.
 
 * Gradient를 이용한 미분값 구하기
-* Linear regression y = ax + b
-* Lienar regression y = ax^2 + bx + c
+* Linear regression $y = ax + b$
+
+![linear_regression1_image](3.SimpleExamples/3.2.LinearRegression/linear_regression1.png)
+
+* Lienar regression $y = ax^2 + bx + c$
+
+![linear_regression2_image](3.SimpleExamples/3.2.LinearRegression/linear_regression2.png)
+
 * MNIST image classification : **M**ulti-**L**ayer **P**erceptron (**MLP**) ~ **F**ully **C**onnected **L**ayers (**FCL**)
 * MNIST image classification : **C**onvolutional **N**eural **N**etwork (**CNN**)
 * MNIST image regression
@@ -50,7 +68,7 @@ pip install matplotlib
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.
 
 * Image classification : ResNet Inference
-* Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
+* Image segmentation : **F**ully **C**onvolutional **N**etwork (**F-CN**) Inference
 * **H**uman **P**ose **E**stimation (**HPE**) : keypoint **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
 
 ## [5. Transfer learning & Fine tuning]()
@@ -61,5 +79,5 @@ pip install matplotlib
 
 ## [6. GAN]()
 
-적대적 생성 신경망 (**G**enerative **A**dversarial **N**etworks)을 이용한 MNIST데이터 생성 예제입니다.
+적대적 생성 신경망 (**G**enerative **A**dversarial **N**etworks)을 이용한 MNIST 데이터 생성 예제입니다.
 
