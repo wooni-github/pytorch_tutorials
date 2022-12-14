@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     model = CNN().to(DEVICE)
 
-    summary(model, input_size=(1, 28, +28))
+    summary(model, input_size=(1, 28, 28))
 
     EPOCHS = args.epoch
     BATCH_SIZE = args.batch_size

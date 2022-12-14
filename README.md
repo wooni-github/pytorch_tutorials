@@ -59,12 +59,15 @@ matplotlib
 
 ![linear_regression2_image](3.SimpleExamples/3.2.LinearRegression/linear_regression2.png)
 
-* MNIST image classification : **M**ulti-**L**ayer **P**erceptron (**MLP**) ~ **F**ully **C**onnected **L**ayers (**FCL**)
-* MNIST image classification : **C**onvolutional **N**eural **N**etwork (**CNN**)
+* MNIST image classification : **M**ulti-**L**ayer **P**erceptron (`MLP`) ~ **F**ully **C**onnected **L**ayers (`FCL`)
+* MNIST image classification : **C**onvolutional **N**eural **N**etwork (`CNN`)
+
 ![MNIST_Classification](3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP.png)
 
 * MNIST image regression
- 
+
+ ![MNIST_Regression](3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg.png)
+
 ## [4. Pretrained networks]()
 
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.

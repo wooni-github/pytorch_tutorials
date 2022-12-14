@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/3.5.MNIST_Reg.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -41,10 +42,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_Network.py">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="275">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -53,49 +54,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="-84">
+              <caret line="58" selection-start-line="58" selection-end-line="61" selection-end-column="54" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/3.5.MNIST_Reg.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="576">
+                <caret line="104" column="89" lean-forward="true" selection-start-line="104" selection-start-column="89" selection-end-line="104" selection-end-column="89" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="326">
-                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="25">
-                <caret line="133" selection-start-line="133" selection-end-line="133" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="451">
-                <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+              <first_editor relative-caret-position="151">
+                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-884">
+              <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="401">
+                <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="19" column="14" selection-start-line="19" selection-end-line="20" />
+            <state relative-caret-position="-825">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -116,44 +153,8 @@
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="41" selection-start-line="41" selection-end-line="48" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="400">
-                <caret line="100" column="34" selection-start-line="100" selection-end-line="101" />
+              <first_editor relative-caret-position="276">
+                <caret line="97" column="22" lean-forward="true" selection-start-line="97" selection-end-line="98" />
               </first_editor>
               <second_editor />
             </state>
@@ -185,17 +186,18 @@
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression2.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression1.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md" />
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py" />
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py" />
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/3.5.MNIST_Reg.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -274,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MNIST_CNN_Test">
+  <component name="RunManager" selected="Python.MNIST_Reg_Test">
     <configuration name="MNIST_CNN_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytorch_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MNIST_MLP_Train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MNIST_Reg_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytorch_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,11 +348,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,7 +361,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_regression2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MNIST_Reg_Train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytorch_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,11 +369,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MNIST_Reg_Test" />
+        <item itemvalue="Python.MNIST_Reg_Train" />
         <item itemvalue="Python.MNIST_CNN_Test" />
         <item itemvalue="Python.MNIST_CNN_Train" />
         <item itemvalue="Python.MNIST_MLP_Test" />
-        <item itemvalue="Python.MNIST_MLP_Train" />
-        <item itemvalue="Python.linear_regression2" />
       </list>
     </recent_temporary>
   </component>
@@ -527,26 +529,6 @@
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/linear_regression1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -577,50 +559,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="41" selection-start-line="41" selection-end-line="48" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="19" column="14" selection-start-line="19" selection-end-line="20" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -637,21 +579,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_Network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-884">
+          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="58" selection-start-line="58" selection-end-line="61" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="451">
-            <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <first_editor relative-caret-position="276">
+            <caret line="97" column="22" lean-forward="true" selection-start-line="97" selection-end-line="98" />
           </first_editor>
           <second_editor />
         </state>
@@ -660,8 +662,28 @@
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="326">
-            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <first_editor relative-caret-position="401">
+            <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/3.5.MNIST_Reg.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="576">
+            <caret line="104" column="89" lean-forward="true" selection-start-line="104" selection-start-column="89" selection-end-line="104" selection-end-column="89" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="151">
+            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           </first_editor>
           <second_editor />
         </state>

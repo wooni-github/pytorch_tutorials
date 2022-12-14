@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     model = FCL_Regression().to(DEVICE)
 
-    summary(model, input_size=(1, 28, +28))
+    summary(model, input_size=(1, 28, 28))
 
     EPOCHS = args.epoch
     BATCH_SIZE = args.batch_size
@@ -67,6 +67,10 @@ if __name__ == '__main__':
 
             if iteration % 2000 == 0:
                 print(('Iteration [{}/{} = {}%], loss {}').format(iteration, max_iteration, round(iteration/max_iteration*100.0, 3), round(loss.item(), 3)))
+                print(target)
+                print(output)
+                print(loss)
+                print()
 
             if iteration == max_iteration//4:
                 # 검증용 중간 weights 저장 (Epoch 25%지점)
