@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 
 class CNN(nn.Module):
-    # https://wikidocs.net/63618
     def __init__(self):
         super(CNN, self).__init__()
         self.keep_prob = 0.5
@@ -41,11 +40,11 @@ class CNN(nn.Module):
         torch.nn.init.xavier_uniform_(self.fc2.weight)
 
     def forward(self, x):
-        out = self.layer1(x)
-        out = self.layer2(out)
-        out = self.layer3(out)
-        out = out.view(out.size(0), -1)   # Flatten them for FC
-        out = self.layer4(out)
-        out = self.fc2(out)
+        x = self.layer1(x)
+        x = self.layer2(x)
+        x = self.layer3(x)
+        x = x.view(x.size(0), -1)   # Flatten them for FC
+        x = self.layer4(x)
+        out = self.fc2(x)
         return out
 

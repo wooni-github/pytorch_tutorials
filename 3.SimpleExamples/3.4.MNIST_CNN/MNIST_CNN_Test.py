@@ -8,7 +8,7 @@ from MNIST_Network import *
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--load', choices=['FIRST', 'LAST'], default='FIRST')
+    parser.add_argument('--load', choices=['FIRST', 'MIDDLE', 'LAST'], default='LAST')
     args = parser.parse_args()
 
     USE_CUDA = torch.cuda.is_available()

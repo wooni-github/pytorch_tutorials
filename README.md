@@ -61,6 +61,8 @@ matplotlib
 
 * MNIST image classification : **M**ulti-**L**ayer **P**erceptron (**MLP**) ~ **F**ully **C**onnected **L**ayers (**FCL**)
 * MNIST image classification : **C**onvolutional **N**eural **N**etwork (**CNN**)
+![MNIST_Classification](3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP.png)
+
 * MNIST image regression
  
 ## [4. Pretrained networks]()
