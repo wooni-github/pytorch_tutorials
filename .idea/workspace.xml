@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,24 +73,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="640">
-                <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+              <first_editor relative-caret-position="240">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="125">
-                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="243" />
+              <first_editor relative-caret-position="425">
+                <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2750">
+              <first_editor relative-caret-position="3200">
                 <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
               </first_editor>
               <second_editor />
@@ -196,15 +196,15 @@
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py" />
-        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="858" />
-    <option name="y" value="85" />
+    <option name="x" value="633" />
+    <option name="y" value="80" />
     <option name="width" value="2039" />
     <option name="height" value="1244" />
   </component>
@@ -394,7 +394,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="858" y="85" width="2039" height="1244" extended-state="0" />
+    <frame x="633" y="80" width="2039" height="1244" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12093953" />
@@ -672,16 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2750">
-            <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -709,21 +699,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="243" />
+          <first_editor relative-caret-position="240">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="640">
-            <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+          <first_editor relative-caret-position="3200">
+            <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
