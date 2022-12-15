@@ -68,12 +68,16 @@ matplotlib
 
  ![MNIST_Regression](3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg.png)
 
-## [4. Pretrained networks]()
+## [4. Pretrained networks](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.PretrainedNetworks.md)
 
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.
 
-* Image classification : ResNet Inference
+* Image classification : ImageNet dataset Inference
+ 
+ ![Pretrained_Classification](4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.png)
+
 * Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
+
 * **H**uman **P**ose **E**stimation (**HPE**) : keypoint **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
 
 ## [5. Transfer learning & Fine tuning]()
