@@ -73,7 +73,7 @@ matplotlib
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.
 
 * Image classification : ResNet Inference
-* Image segmentation : **F**ully **C**onvolutional **N**etwork (**F-CN**) Inference
+* Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
 * **H**uman **P**ose **E**stimation (**HPE**) : keypoint **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
 
 ## [5. Transfer learning & Fine tuning]()
