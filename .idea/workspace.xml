@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +43,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="476">
-                <caret line="80" selection-start-line="80" selection-end-line="80" />
+              <first_editor relative-caret-position="426">
+                <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,12 +73,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="175">
-                <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
+              <first_editor relative-caret-position="640">
+                <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1775">
-                <caret line="71" selection-start-line="71" selection-end-line="71" selection-end-column="59" />
+              <first_editor relative-caret-position="125">
+                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="243" />
               </first_editor>
               <second_editor />
             </state>
@@ -197,8 +197,8 @@
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" />
-        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
       </list>
     </option>
   </component>
@@ -699,11 +699,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
+          <first_editor relative-caret-position="426">
+            <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
@@ -712,18 +712,18 @@
     <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1775">
-            <caret line="71" selection-start-line="71" selection-end-line="71" selection-end-column="59" />
+          <first_editor relative-caret-position="125">
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="243" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <first_editor relative-caret-position="640">
+            <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
           </first_editor>
           <second_editor />
         </state>
