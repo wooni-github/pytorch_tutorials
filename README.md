@@ -22,6 +22,7 @@ conda activate pytorch_tutorials
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 pip install matplotlib
 pip install torchsummary
+pip install opencv-python
 ```
 
 <br>
@@ -34,6 +35,7 @@ torchvision
 torchsummary
 numpy
 matplotlib
+opencv
 ```
 
 ## [1. Tensor operations, reshape](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/1.Tensors.md)
@@ -76,7 +78,19 @@ matplotlib
  
  ![Pretrained_Classification](4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.png)
 
+<br>
+
 * Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
+
+|Input|Segmentation result|Visualize|
+|---|---|---| 
+|![input_image](4.PretrainedNetworks/4.2.PretrainedSegmentation/test_image.jpg)|![result_image](4.PretrainedNetworks/4.2.PretrainedSegmentation/test_image_result.png)|![overlay_image](4.PretrainedNetworks/4.2.PretrainedSegmentation/test_image_overlay.png)|
+
+<br>
+
+![Video](4.PretrainedNetworks/4.2.PretrainedSegmentation/seq1_result.gif)
+
+<br>
 
 * **H**uman **P**ose **E**stimation (**HPE**) : keypoint **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
 

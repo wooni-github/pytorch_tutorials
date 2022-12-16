@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +21,12 @@
     <window id="3">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file pinned="false" current-in-tab="false">
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="700">
-                    <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+                  <state relative-caret-position="207">
+                    <caret line="11" column="30" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="30" />
                     <folding>
                       <element signature="e#0#12#0" expanded="true" />
                     </folding>
@@ -27,7 +34,7 @@
                 </provider>
               </entry>
             </file>
-            <file pinned="false" current-in-tab="true">
+            <file pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="117">
@@ -43,32 +50,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="426">
-                <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+              <first_editor relative-caret-position="171">
+                <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/environment.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="989" column="10" selection-start-line="989" selection-start-column="10" selection-end-line="989" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -77,44 +66,68 @@
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="465">
+                <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#76#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="32" column="49" selection-start-line="32" selection-end-line="33" />
+              <folding>
+                <element signature="e#77#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="682">
+                <caret line="170" selection-start-line="170" selection-end-line="170" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="39" selection-start-line="39" selection-end-line="51" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/3.3.MNIST_MLP.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3200">
-                <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Tensors/1.Tensors.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="15" selection-start-line="3" selection-end-line="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,7 +138,7 @@
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
+              <first_editor relative-caret-position="425">
                 <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="72" />
               </first_editor>
               <second_editor />
@@ -137,7 +150,7 @@
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1476">
+              <first_editor relative-caret-position="2425">
                 <caret line="97" column="22" selection-start-line="97" selection-end-line="98" />
               </first_editor>
               <second_editor />
@@ -149,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/3.1.Gradient.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
+              <first_editor relative-caret-position="525">
                 <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               </first_editor>
               <second_editor />
@@ -196,41 +209,33 @@
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/utils.py" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="80" />
-    <option name="width" value="2039" />
-    <option name="height" value="1244" />
+    <option name="x" value="1187" />
+    <option name="y" value="145" />
+    <option name="width" value="1818" />
+    <option name="height" value="1212" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="3.SimpleExamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="3.SimpleExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="3.3.MNIST_MLP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
@@ -243,10 +248,17 @@
               <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
               <item name="4.1.PretrainedClassification" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
+              <item name="4.2.PretrainedSegmentation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,49 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pretrained_classification">
-    <configuration name="MNIST_CNN_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pytorch_tutorials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MNIST_CNN_Train" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pytorch_tutorials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pretrained_segmentation_fcn_video">
     <configuration name="MNIST_Reg_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytorch_tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,13 +340,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pretrained_segmentation_fcn_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrained_segmentation_fcn_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pretrained_segmentation_fcn_video" />
+        <item itemvalue="Python.pretrained_segmentation_fcn_image" />
         <item itemvalue="Python.pretrained_classification" />
         <item itemvalue="Python.MNIST_Reg_Test" />
         <item itemvalue="Python.MNIST_Reg_Train" />
-        <item itemvalue="Python.MNIST_CNN_Test" />
-        <item itemvalue="Python.MNIST_CNN_Train" />
       </list>
     </recent_temporary>
   </component>
@@ -394,21 +406,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="80" width="2039" height="1244" extended-state="0" />
+    <frame x="1187" y="145" width="1818" height="1212" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12093953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23370786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28478664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299293" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32931355" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3299293" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -618,36 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/3.1.Gradient.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.Tensors/1.Tensors.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/environment.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -657,55 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="24725">
           <caret line="989" column="10" selection-start-line="989" selection-start-column="10" selection-end-line="989" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1476">
-            <caret line="97" column="22" selection-start-line="97" selection-end-line="98" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="72" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="426">
-            <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -719,11 +654,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
+    <entry file="file://$PROJECT_DIR$/1.Tensors/1.Tensors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4250">
+            <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="425">
-            <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+            <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/3.4.MNIST_CNN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2425">
+            <caret line="97" column="22" selection-start-line="97" selection-end-line="98" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/3.1.Gradient.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="15" selection-start-line="3" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#76#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="32" column="49" selection-start-line="32" selection-end-line="33" />
+          <folding>
+            <element signature="e#77#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="682">
+            <caret line="170" selection-start-line="170" selection-end-line="170" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" selection-start-line="39" selection-end-line="51" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
