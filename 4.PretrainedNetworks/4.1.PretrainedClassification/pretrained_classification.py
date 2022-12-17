@@ -9,7 +9,7 @@ import argparse
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--network', choices=['resnet50', 'vgg11', 'googlenet'], default='resnet50')
+    parser.add_argument('--network', choices=['resnet50', 'vgg11', 'googlenet', 'ViT'], default='resnet50')
     args = parser.parse_args()
 
     imgs = [Image.open(i) for i in ['dog.jpg', 'goose.jpg', 'koala.jpg']]
@@ -26,6 +26,8 @@ if __name__ == '__main__':
         model = models.vgg11(pretrained=True)
     elif args.network == 'googlenet':
         model = models.googlenet(pretrained=True)
+    elif args.network == 'ViT':
+        model = models.vit_b_16(pretrained=True)
     model.eval()
 
 
