@@ -92,7 +92,7 @@ opencv
 
 <br>
 
-* **H**uman **P**ose **E**stimation (**HPE**) : keypoint **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
+* **H**uman **P**ose **E**stimation (**HPE**) : keypoint R-CNN Inference
 
 ## [5. Transfer learning & Fine tuning]()
 
