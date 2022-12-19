@@ -5,7 +5,7 @@
 
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.
 
-## [Image classification : ImageNet dataset Inference](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md)
+## [Image classification : ImageNet dataset Inference](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.1.PretrainedClassification/README.md)
 
 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py)
 
@@ -14,7 +14,7 @@ pretrained 네트워크를 이용하여 ImageNet 데이터셋에 대한 이미�
 ![pertrained_classification](4.1.PretrainedClassification/pretrained_classification.png)
 
 
-## [Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md)
+## [Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md)
 
 [이미지] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py)
 

@@ -38,17 +38,17 @@ matplotlib
 opencv
 ```
 
-## [1. Tensor operations, reshape](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/1.Tensors.md)
+## [1. Tensor operations, reshape](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/README.md)
 
 기본적인 텐서 생성, 변환, 연산(곱, 행렬곱, 합), 접근, 형태 변환 등에 관한 예제입니다.
 
 
-## [2. DataLoader](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/2.DataLoader.md)
+## [2. DataLoader](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/README.md)
 
 파이토치에서 학습/추론시 배치별 데이터 생성을 위한 `DataLoader`에 관한 예제입니다.
 
 
-## [3. SimpleExamples](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.SimpleExamples.md)
+## [3. SimpleExamples](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/README.md)
 
 본격적인 **SOTA**를 살펴보기 전, 간단한 예제들을 통해 파이토치의 여러가지 기능을 사용해보는 예제입니다.
 
@@ -70,7 +70,7 @@ opencv
 
  ![MNIST_Regression](3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg.png)
 
-## [4. Pretrained networks](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.PretrainedNetworks.md)
+## [4. Pretrained networks](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/README.md)
 
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.
 
