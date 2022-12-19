@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.3.PretrainedHPE/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.3.PretrainedHPE/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <first_editor relative-caret-position="800">
+                <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
               </first_editor>
               <second_editor />
             </state>
@@ -186,10 +182,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1516" />
-    <option name="y" value="78" />
-    <option name="width" value="1557" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="y" value="99" />
+    <option name="width" value="1954" />
     <option name="height" value="1212" />
   </component>
   <component name="ProjectView">
@@ -203,28 +199,6 @@
             <path>
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="1.Tensors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
-              <item name="4.2.PretrainedSegmentation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
-              <item name="4.3.PretrainedHPE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -384,15 +358,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
+    <frame x="37" y="99" width="1954" height="1212" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1217086" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.217119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23946957" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28478664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39981446" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -823,8 +797,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <first_editor relative-caret-position="800">
+            <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
           </first_editor>
           <second_editor />
         </state>
