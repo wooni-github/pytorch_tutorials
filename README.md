@@ -94,6 +94,18 @@ opencv
 
 * **H**uman **P**ose **E**stimation (**HPE**) : keypoint R-CNN Inference
 
+|Input|HPE result|
+|---|---|
+|![input_image](4.PretrainedNetworks/4.3.PretrainedHPE/test_image.jpg)|![result_image](4.PretrainedNetworks/4.3.PretrainedHPE/test_image_result.png)|
+
+<br>
+
+
+![Video](4.PretrainedNetworks/4.3.PretrainedHPE/test_video_result.gif)
+
+
+<br>
+
 ## [5. Transfer learning & Fine tuning]()
 
 커스텀 데이터셋에 파이토치의 pretrained network를 이용하여 전이학습 (Transfer learning)과 파인 튜닝 (Fine tuning)을 적용해 이미지 분류 (Image classification)를 수행해보는 예제입니다.

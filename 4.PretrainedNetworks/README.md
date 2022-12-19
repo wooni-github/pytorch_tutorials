@@ -41,9 +41,9 @@ pretrained 네트워크 (`FCN`)를 이용하여 이미지 세그먼테이션을 
 
 ## [**H**uman **P**ose **E**stimation (**HPE**) : keypoint R-CNN Inference](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.3.PretrainedHPE/README.md)
 
-[이미지] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_image.py)
+[이미지] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_image.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_image.py)
 
-[영상] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_video.py)
+[영상] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_video.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_video.py)
 
 사람의 관절을 추정하는 pretrained 네트워크 `Keypoint R-CNN` (backbone : `ResNet-50-FPN`) 의 예제입니다.
 
