@@ -106,13 +106,13 @@ opencv
 
 <br>
 
-## [5. Transfer learning & Fine tuning](5.TrasnferLearningFineTuning/README.md)
+## [5. Transfer learning & Fine tuning](5.TransferLearningFineTuning/README.md)
 
 커스텀 데이터셋에 파이토치의 pretrained network를 이용하여 전이학습 (Transfer learning)과 파인 튜닝 (Fine tuning)을 적용해 이미지 분류 (Image classification)를 수행해보는 예제입니다.
 
 또한, 커스텀 데이터셋을 학습하고 변경된 네트워크를 이용한 분류를 수행하도록 합니다. 
 
-![fine_tuning](5.TrasnferLearningFineTuning/results_fine_tuning_2cls.png)
+![fine_tuning](5.TransferLearningFineTuning/results_fine_tuning_2cls.png)
 
 <br>
 

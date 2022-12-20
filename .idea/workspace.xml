@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/imagenet_classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/results_fine_tuning_2cls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/results_imagenet_1000cls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.TrasnferLearningFineTuning/results_wo_pretrained_2cls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,36 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="482">
-                <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
+                <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,30 +85,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-50">
               <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Network.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -192,10 +152,10 @@
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/README.md" />
         <option value="$PROJECT_DIR$/5.TrasnferLearningFineTuning/imagenet_classes.txt" />
         <option value="$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Network.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Train.py" />
         <option value="$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Test.py" />
         <option value="$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -241,7 +201,7 @@
             <path>
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="5.TrasnferLearningFineTuning" type="462c0819:PsiDirectoryNode" />
+              <item name="5.TransferLearningFineTuning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -838,16 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="482">
-            <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.TrasnferLearningFineTuning/TL_FT_Network.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
@@ -881,8 +831,18 @@
     <entry file="file://$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <first_editor relative-caret-position="550">
+            <caret line="22" column="74" lean-forward="true" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="482">
+            <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
           </first_editor>
           <second_editor />
         </state>
