@@ -3,7 +3,7 @@
 
 # Transfer learning & Fine tuning
 
-[Training] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Train.py)
+[Training] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TrasnferLearningFineTuning/TL_FT_Train.py)
 
 [Inference] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Test.py)
 
