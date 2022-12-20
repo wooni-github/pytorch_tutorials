@@ -3,9 +3,9 @@
 
 # Transfer learning & Fine tuning
 
-[Training] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuing/TL_FT_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Train.py)
+[Training] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Train.py)
 
-[Inference] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuing/TL_FT_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Test.py)
+[Inference] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Test.py)
 
 앞선 예제들을 통해서 컴퓨터 비전의 다양한 네트워크들의 구조 및 학습이 완료된 weights를 가져와 테스트를 수행해 봤습니다.
 
@@ -13,7 +13,6 @@
 
 <br>
 
----
 # Definition
 
 서로 다르게 정의하고 있는 분들도 계시던데, 현재 제가 갖고있는 지식으로는 아래와 같이 정의합니다.
@@ -50,7 +49,7 @@ Image classification에서는 크게 네트워크 구조가
  
  <br>
 
-**Training**
+## Training
 
 우선, 이번 예제에서 사용할 `ants and bees` 데이터셋을 다운로드 해 줍니다 [[Link]](https://download.pytorch.org/tutorial/hymenoptera_data.zip)
 
@@ -154,8 +153,8 @@ ResNet(
 
 <br>
 
----
-**Inference**
+
+##Inference
 
 추론시에도 약간의 주의만 해주면 됩니다.
 
@@ -196,11 +195,13 @@ else:
 
 추론해보면 아래와 같은 결과가 나타납니다.
 
-|`pretrained = True` w\o Fine tuning(1000 class에 대한 확률 예측)|`pretrained = True` w/ Fine tuning (2 class에 대한 확률 예측)|`pretrained = False` w/ Fine tuining (2 class에 대한 확률 예측)|
+|`pretrained = True` w\o Fine tuning (1000 class에 대한 확률 예측)|`pretrained = True` w/ Fine tuning (2 class에 대한 확률 예측)|`pretrained = False` w/ Fine tuining (2 class에 대한 확률 예측)|
 |:---:|:---:|:---:|
 ![transfer_learning](results_imagenet_1000cls.png)|![fine_tuning](results_fine_tuning_2cls.png)|![wo_fine_tuning](results_wo_pretrained_2cls.png)
 86.928%|95.425%|68.627%|
 
-최적화를 하기 위해 `lr`을 변경하거나 `batch_size`나 기타 어떤 것을 건드리지 않고 그냥 코드 몇 줄 복사 붙여넣기 한 것 만으로도 제 컴퓨터 기준 1분정도만 학습을 수해앴는데도 10%가량의 성능 향상이 나타나네요.
+최적화를 하기 위해 `lr`을 변경하거나 `batch_size`나 기타 어떤 것을 건드리지 않고, 코드 몇 줄 복사 붙여넣기 이후 제 컴퓨터 기준 1분정도만 학습을 수행했는데도 10%가량의 성능 향상이 나타나네요.
 
-만약 `pretrained weights`를 로드하지 않고 완전한 초기값으로부터 2개의 클래스에 대한 학습을 수행하면 68%라는 저조한 수치가 나타납니다. 클래스가 고작 2개라서 학습을 안해도 기대치가 50%라는걸 감안하면 대단히 낮은 수치죠. 물론 학습을 오래 수행하면 수치는 크게 상승하겠지만, 같은 `epoch`로 학습할 때, 가중치의 초기값이 얼마나 중요한지를 이번 예제, `Fine tuning`을 통해 알 수 있었습니다.
+만약 `pretrained weights`를 로드하지 않고 완전한 초기값으로부터 2개의 클래스에 대한 학습을 수행하면 `68%`라는 저조한 수치가 나타납니다. 
+
+클래스가 고작 2개라서 학습을 안해도 기대치가 50%라는걸 감안하면 대단히 낮은 수치죠. 물론 학습을 오래 수행하면 수치는 크게 상승하겠지만, 같은 `epoch`로 학습할 때, 가중치의 초기값이 얼마나 중요한지를 이번 예제, `Fine tuning`을 통해 알 수 있었습니다.
