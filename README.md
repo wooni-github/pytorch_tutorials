@@ -116,7 +116,12 @@ opencv
 
 <br>
 
-## [6. GAN]()
+## [6. GAN](6.GAN/README.md)
 
 적대적 생성 신경망 (**G**enerative **A**dversarial **N**etworks)을 이용한 MNIST 데이터 생성 예제입니다.
 
+![MLP_GAN](6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN.gif)
+
+- MNIST GAN
+- MNIST DCGAN (Deep Convolutiona GAN)
+- MNIST CGAN (Conditional GAN)
