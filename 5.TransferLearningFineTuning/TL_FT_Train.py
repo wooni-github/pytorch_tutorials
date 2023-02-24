@@ -8,7 +8,6 @@ from TL_FT_Network import *
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--input_folder', default = 'hymenoptera_data/train/')
-
     parser.add_argument('--batch_size', type = int, default=64)
     parser.add_argument('--epoch', type=int, default=50)
     args = parser.parse_args()
@@ -21,8 +20,8 @@ if __name__ == '__main__':
     EPOCHS = args.epoch
     BATCH_SIZE = args.batch_size
 
-    image_datasets = datasets.ImageFolder(args.input_folder, transform_train)
-    train_loader = torch.utils.data.DataLoader(image_datasets, batch_size=BATCH_SIZE, shuffle=True)
+    train_loader = torch.utils.data.DataLoader(datasets.ImageFolder(args.input_folder, transform_train)
+                                               , batch_size=BATCH_SIZE, shuffle=True)
 
     optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.5)
 
@@ -31,7 +30,6 @@ if __name__ == '__main__':
     iteration = 0
     min_loss = 10e6
     max_iteration = len(train_loader)*EPOCHS
-
     for epoch in range(EPOCHS):
         for batch_idx, (data, target) in enumerate(train_loader):
             data, target = data.to(DEVICE), target.to(DEVICE) # Data -> Device
