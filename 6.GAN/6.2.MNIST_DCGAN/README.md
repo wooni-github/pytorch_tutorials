@@ -3,6 +3,10 @@
 
 ## GAN : MNIST CGAN (Deep Convolutional GAN)
 
+- [Training 예제](MNIST_DCGAN_TRAIN.py)
+
+- [Inference 예제](MNIST_DCGAN_TEST.py)
+
 <br>
 
 이번에는 앞서 다룬 `MLP`를 이용한 MNIST 데이터셋의 GAN [[Link]](../6.1.MNIST_MLP_GAN/README.md)의 네트워크 구조를 `MLP` 대신 `CNN`으로 변경해보겠습니다.
