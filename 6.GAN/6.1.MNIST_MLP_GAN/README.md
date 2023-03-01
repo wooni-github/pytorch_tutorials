@@ -3,9 +3,9 @@
 
 ## GAN : MNIST MLP
 
-[Training 예제](MNIST_MLP_GAN_Train.py)
+- [Training 예제](MNIST_MLP_GAN_TRAIN.py)
 
-[Inference 예제](MNIST_MLP_GAN_Test.py)
+- [Inference 예제](MNIST_MLP_GAN_TEST.py)
 
 <br>
 
