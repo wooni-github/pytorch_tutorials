@@ -3,9 +3,9 @@
 
 # Transfer learning & Fine tuning
 
-[Training] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Train.py)
+- [Training 예제](TL_FT_Train.py)
 
-[Inference] 예제코드 [pytorch_tutorials/5.TransferLearningFineTuning/TL_FT_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/5.TransferLearningFineTuning/TL_FT_Test.py)
+- [Inference 예제](TL_FT_Test.py)
 
 앞선 예제들을 통해서 컴퓨터 비전의 다양한 네트워크들의 구조 및 학습이 완료된 weights를 가져와 테스트를 수행해 봤습니다.
 
@@ -166,7 +166,7 @@ with open('imagenet_classes.txt') as f:
 classes_imagenet = classes_imagenet[4:]  # .txt파일의 최초 4줄은 의미 없음        
 ```
 
-클래스 이름이 담긴 파일을 로드합니다. 앞선 예제 [[Link]](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.1.PretrainedClassification/README.md) 와 동일하여 설명은 생략합니다.
+클래스 이름이 담긴 파일을 로드합니다. 앞선 예제 [[Link]](../4.PretrainedNetworks/4.1.PretrainedClassification/) 와 동일하여 설명은 생략합니다.
 
 
 
