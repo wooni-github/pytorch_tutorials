@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,18 +42,6 @@
                 <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_DCGAN_TEST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="49" selection-start-line="23" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -109,12 +97,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="325">
-                <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <first_editor relative-caret-position="450">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-293">
+                <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -199,7 +199,6 @@
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md" />
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.3.PretrainedHPE/pretrained_keypointrcnn_video.py" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.3.PretrainedHPE/utils.py" />
@@ -240,6 +239,7 @@
         <option value="$PROJECT_DIR$/2.DataLoader/README.md" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/README.md" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md" />
       </list>
     </option>
   </component>
@@ -277,6 +277,12 @@
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="3.SimpleExamples" type="462c0819:PsiDirectoryNode" />
               <item name="3.1.Gradient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="3.SimpleExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2.LinearRegression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -550,7 +556,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_GAN_NETWORK.py" />
     <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_GAN_TRAIN.py" />
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -906,8 +911,18 @@
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="325">
-            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <first_editor relative-caret-position="450">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-293">
+            <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>
