@@ -3,13 +3,13 @@
 
 ## GAN : MNIST MLP
 
-[Training] 예제코드 [pytorch_tutorials/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Train.py)
+[Training 예제](MNIST_MLP_GAN_Train.py)
 
-[Inference] 예제코드 [pytorch_tutorials/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Test.py)
+[Inference 예제](MNIST_MLP_GAN_Test.py)
 
 <br>
 
-MNIST 데이터셋과 MLP에 대해서는 앞서 이미지 분류에서 다룬 예제 [[Link]](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/README.md) 를 참고해주세요.
+MNIST 데이터셋과 MLP에 대해서는 앞서 이미지 분류에서 다룬 예제 [[Link]](../../3.SimpleExamples/3.3.MNIST_MLP/) 를 참고해주세요.
 
 GAN에 대한 상세 내용도 다루지 않습니다. 코드를 구현하는데 필요한 필수적인 요소만 짚고 가겠습니다.
 
