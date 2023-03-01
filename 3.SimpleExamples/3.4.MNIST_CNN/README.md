@@ -3,10 +3,6 @@
 
 ## MNIST image classification : **C**onvolutional **N**eural **N**etwork (**CNN**)
 
-[학습] 예제코드 [pytorch_tutorials/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Train.py)
-
-[추론] 예제코드 [pytorch_tutorials/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.4.MNIST_CNN/MNIST_CNN_Test.py)
-
 앞선 `MLP`로 이미지 분류를 수행했던 예제를 합성곱 신경망 (**C**onvolutional **N**eural **N**etwork)로 바꿔 학습/추론하는 예제입니다.
 
 --- 
