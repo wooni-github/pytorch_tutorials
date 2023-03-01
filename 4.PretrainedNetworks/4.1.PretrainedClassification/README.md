@@ -1,9 +1,7 @@
 
 <br>
 
-## Image classification : ImageNet dataset Inference
-
-예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.1.PretrainedClassification/pretrained_classification.py)
+## [Image classification](pretrained_classification.py) : ImageNet dataset Inference
 
 <br>
 
@@ -54,7 +52,7 @@ out = model(torch.unsqueeze(transform(img), 0))
 _, index = torch.max(out, 1) #가장 확률이 높은 것 뽑아냄
 ```
 
-추론시에는 앞선 [MNIST Classification 추론 예제](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/README.md)처럼
+추론시에는 앞선 [MNIST Classification 추론 예제](../../3.SimpleExamples/3.3.MNIST_MLP/README.md)처럼
 `transform`한 이미지를 네트워크에 넣어 추론합니다.
 
 이번 예제에서 `torch.unsqueeze`를 `0`번째 채널에 대해 수행한 이유는, 이미지 한 장이 [`H x W x C`]로 이루어져 있기 때문에 배치크기를 더한 [`B x H x W x C]`로 만들어주기 위함입니다.
