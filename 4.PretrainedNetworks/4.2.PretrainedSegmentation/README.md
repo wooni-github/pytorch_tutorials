@@ -3,9 +3,9 @@
 
 ## Image segmentation : **F**ully **C**onvolutional **N**etwork (**FCN**) Inference
 
-[이미지] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py)
+[이미지 예제](pretrained_segmentation_fcn_image.py)
 
-[영상] 예제코드 [pytorch_tutorials/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_video.py)
+[영상 예제](pretrained_segmentation_fcn_video.py)
 
 <br>
 

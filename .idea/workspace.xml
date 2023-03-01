@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,21 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.DataLoader/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="482">
-                <caret line="158" column="29" lean-forward="true" selection-start-line="158" selection-start-column="29" selection-end-line="158" selection-end-column="29" />
-                <folding>
-                  <element signature="e#0#18#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -138,12 +123,24 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="475">
+                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="407">
+                <caret line="109" column="63" lean-forward="true" selection-start-line="109" selection-start-column="63" selection-end-line="109" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -183,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/4.1.PretrainedClassification.md" />
@@ -234,6 +230,7 @@
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/README.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/README.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md" />
+        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md" />
       </list>
     </option>
   </component>
@@ -306,6 +303,12 @@
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
               <item name="4.1.PretrainedClassification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="4.PretrainedNetworks" type="462c0819:PsiDirectoryNode" />
+              <item name="4.2.PretrainedSegmentation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -579,13 +582,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/ProgramData/Miniconda3/envs/pytorch_tutorials/Lib/site-packages/torch/nn/modules/conv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="442" selection-start-line="442" selection-end-line="442" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -964,8 +960,18 @@
     <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="475">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="407">
+            <caret line="109" column="63" lean-forward="true" selection-start-line="109" selection-start-column="63" selection-end-line="109" selection-end-column="63" />
           </first_editor>
           <second_editor />
         </state>
