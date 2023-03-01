@@ -165,7 +165,7 @@ train_loader = torch.utils.data.DataLoader(
     batch_size=BATCH_SIZE, shuffle=True) # Training 단계에서는 shuffle 수행
 ```
 
-앞서 [2. DataLoader](../2.DataLoader/) 에서 살펴봤던 것 처럼,
+앞서 [2. DataLoader](../../2.DataLoader/) 에서 살펴봤던 것 처럼,
 데이터로더에서 `train, transform, batch_size, shuffle`을 설정해줍니다.
 
 <br>
