@@ -10,7 +10,7 @@ ex) Classification, Detection, Segmentation, Regression, GAN, ...
 
 ```bash
 git clone https://github.com/wooni-github/pytorch_tutorials
-cd <다운 위치>
+cd pytorch_tutorials
 conda env create --file environment.yaml
 ```
 
@@ -38,17 +38,17 @@ matplotlib
 opencv
 ```
 
-## [1. Tensor operations, reshape](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/README.md)
+## [1. Tensor operations, reshape](1.Tensors/)
 
 기본적인 텐서 생성, 변환, 연산(곱, 행렬곱, 합), 접근, 형태 변환 등에 관한 예제입니다.
 
 
-## [2. DataLoader](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/README.md)
+## [2. DataLoader](2.DataLoader/)
 
 파이토치에서 학습/추론시 배치별 데이터 생성을 위한 `DataLoader`에 관한 예제입니다.
 
 
-## [3. SimpleExamples](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/README.md)
+## [3. SimpleExamples](3.SimpleExamples/)
 
 본격적인 **SOTA**를 살펴보기 전, 간단한 예제들을 통해 파이토치의 여러가지 기능을 사용해보는 예제입니다.
 
@@ -70,7 +70,7 @@ opencv
 
  ![MNIST_Regression](3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg.png)
 
-## [4. Pretrained networks](https://github.com/wooni-github/pytorch_tutorials/blob/main/4.PretrainedNetworks/README.md)
+## [4. Pretrained networks](4.PretrainedNetworks/)
 
 파이토치에서 제공하는 다양한 네트워크의 pretrained weights를 이용한 예제입니다.
 
@@ -106,7 +106,7 @@ opencv
 
 <br>
 
-## [5. Transfer learning & Fine tuning](5.TransferLearningFineTuning/README.md)
+## [5. Transfer learning & Fine tuning](5.TransferLearningFineTuning/)
 
 커스텀 데이터셋에 파이토치의 pretrained network를 이용하여 전이학습 (Transfer learning)과 파인 튜닝 (Fine tuning)을 적용해 이미지 분류 (Image classification)를 수행해보는 예제입니다.
 
@@ -116,12 +116,14 @@ opencv
 
 <br>
 
-## [6. GAN](6.GAN/README.md)
+## [6. GAN](6.GAN/)
 
 적대적 생성 신경망 (**G**enerative **A**dversarial **N**etworks)을 이용한 MNIST 데이터 생성 예제입니다.
 
 ![MLP_GAN](6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN.gif)
 
 - MNIST GAN
-- MNIST DCGAN (Deep Convolutiona GAN)
+- MNIST DCGAN (Deep Convolutional GAN)
 - MNIST CGAN (Conditional GAN)
+
+![MLP_CGAN](6.GAN/6.3.MNIST_CGAN/MNIST_CGAN.png)

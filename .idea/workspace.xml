@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/6.GAN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +34,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="721">
-                <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2800">
-                <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <first_editor relative-caret-position="371">
+                <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,6 +66,18 @@
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2457">
+                <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -164,6 +164,7 @@
       <find>G</find>
       <find>Discriminator</find>
       <find>remove</find>
+      <find>.md</find>
     </findStrings>
     <replaceStrings>
       <replace>real_images</replace>
@@ -208,7 +209,6 @@
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_GAN_TRAIN.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_TRAIN2.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_NETWORK.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_MLP_CGAN/MNIST_MLP_CGAN_NETWORK.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_CNN_GAN_NETWORK.py" />
@@ -228,6 +228,7 @@
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/MNIST_CGAN_TEST.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/README.md" />
         <option value="$PROJECT_DIR$/6.GAN/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -652,16 +653,6 @@
     <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="104" selection-start-line="104" selection-end-line="104" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.GAN/6.3.MNIST_MLP_CGAN/result/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -898,8 +889,18 @@
     <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="721">
-            <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <first_editor relative-caret-position="371">
+            <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2457">
+            <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
