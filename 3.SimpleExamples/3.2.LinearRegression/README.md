@@ -1,7 +1,7 @@
 
 <br>
 
-## [Linear regression $y = ax + b$](3.2.LinearRegression/linear_regression1.py)
+## [Linear regression](3.2.LinearRegression/linear_regression1.py) $y = ax + b$
 
 $y = ax + b$ 에서 `[x, y]`쌍을 데이터로 주었을 때 `a, b`를 추정해내는 **선형회귀 (Linear regression)** 예제입니다.
 
@@ -90,7 +90,7 @@ Epoch :  100, y = 2.0203x+2.7954 Cost 0.115461
 
 <br>
 
-## [Linear regression $y = ax^2 + bx + c$](linear_regression2.py)
+## [Linear regression](linear_regression2.py) $y = ax^2 + bx + c$
 
 이번에는 2차함수인 $y = 2x^2 - 4x + 3$를 선형회귀로 풀어보는 예제입니다.
 
