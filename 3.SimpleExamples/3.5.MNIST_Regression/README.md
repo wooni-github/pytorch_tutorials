@@ -3,10 +3,6 @@
 
 ## MNIST image classification : **C**onvolutional **N**eural **N**etwork (**CNN**)
 
-[학습] 예제코드 [pytorch_tutorials/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Train.py)
-
-[추론] 예제코드 [pytorch_tutorials/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py)
-
 MNIST 데이터셋으로는 조금 이례적인 방법의 딥러닝 적용인데요, 저는 자주 사용하는 이미지로부터 **클래스**가 아닌 **값**을 예측하는 이미지 회귀 (**Image regression**)을 수행해 보겠습니다.
 
 이미지 한 장으로부터 이미지가 0~9의 숫자 중 어느 것에 속하는지 **클래스를 구분하는 것이 아닌**

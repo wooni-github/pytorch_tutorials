@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="371">
-                <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -133,12 +121,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-729">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="596">
+                <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1600">
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -189,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/utils.py" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/pretrained_segmentation_fcn_image.py" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.PretrainedNetworks.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/4.2.PretrainedSegmentation.md" />
@@ -240,6 +239,7 @@
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/README.md" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/README.md" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/README.md" />
       </list>
     </option>
   </component>
@@ -295,6 +295,12 @@
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="3.SimpleExamples" type="462c0819:PsiDirectoryNode" />
               <item name="3.4.MNIST_CNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="3.SimpleExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="3.5.MNIST_Regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -568,16 +574,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -942,8 +938,18 @@
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.4.MNIST_CNN/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-729">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="596">
+            <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1600">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
