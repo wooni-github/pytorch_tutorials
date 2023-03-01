@@ -13,8 +13,6 @@
 
 ## 1. DataLoader
 
-예제코드 [pytorch_tutorials/2.DataLoader/DataLoader.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/DataLoader.py)
-
 우선 예제 데이터셋으로 파이토치에서 코드만으로 바로 다운로드 및 사용할 수 있는 CIFAR-10 데이터셋을 다운로드 해 줍니다.
 
 ```python
@@ -82,8 +80,6 @@ for i in range(100): # for max iteration
 
 ## 2. ImageFolder
 
-예제코드 [pytorch_tutorials/2.DataLoader/DataLoader_ImageFolder.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/DataLoader_ImageFolder.py)
-
 파이토치에서 제공하는 또다른 매우 편리한 `ImageFolder`입니다
 
 ```sh
@@ -130,8 +126,6 @@ print('images.size() : [batch x channel x height x width]', images.size())
 <br>
 
 ## 3. Custom DataLoader
-
-예제코드 [pytorch_tutorials/2.DataLoader/custom_DataLoader.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/custom_DataLoader.py)
 
 이번에는 파이토치를 이용해서 본격적인 딥러닝을 사용하기 위해 반드시 숙지해야 할, 자신만의 `DataLoader`를 사용하는 방법입니다.
 
@@ -197,8 +191,6 @@ __len__|전체 데이터 갯수 반환|
 
 ## 4. Transform
 
-예제코드 [pytorch_tutorials/2.DataLoader/custom_DataLoader_transform.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/custom_DataLoader_transform.py)
-
 ```python
 class MyDataset(Dataset):
     def __init__(self, x_data, y_data, transform=None):
@@ -260,8 +252,6 @@ ds1 = MyDataset(train_images, train_labels, transform=trans)
 
 
 <br>
-
-예제코드 [pytorch_tutorials/2.DataLoader/custom_DataLoader_transformPIL.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/custom_DataLoader_transformPIL.py)
 
 ```python
 class MyTransform:

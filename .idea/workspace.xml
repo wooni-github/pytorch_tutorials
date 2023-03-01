@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1.Tensors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.Tensors/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.DataLoader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.DataLoader/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,18 +47,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="275">
-                <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_DCGAN_TEST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
@@ -82,12 +70,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.Tensors/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="521">
-                <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
+              <first_editor relative-caret-position="346">
+                <caret line="280" column="8" lean-forward="true" selection-start-line="280" selection-start-column="8" selection-end-line="280" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.DataLoader/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-118">
+                <caret line="253" column="4" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="4" />
+                <folding>
+                  <element signature="e#0#18#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -181,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/3.5.MNIST_Reg.md" />
         <option value="$PROJECT_DIR$/1.Tensors/1.Tensors.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" />
@@ -232,6 +234,7 @@
         <option value="$PROJECT_DIR$/6.GAN/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/1.Tensors/README.md" />
+        <option value="$PROJECT_DIR$/2.DataLoader/README.md" />
       </list>
     </option>
   </component>
@@ -257,7 +260,7 @@
             <path>
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="1.Tensors" type="462c0819:PsiDirectoryNode" />
+              <item name="2.DataLoader" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -531,16 +534,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -885,8 +878,21 @@
     <entry file="file://$PROJECT_DIR$/1.Tensors/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="521">
-            <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
+          <first_editor relative-caret-position="346">
+            <caret line="280" column="8" lean-forward="true" selection-start-line="280" selection-start-column="8" selection-end-line="280" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.DataLoader/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-118">
+            <caret line="253" column="4" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="4" />
+            <folding>
+              <element signature="e#0#18#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
