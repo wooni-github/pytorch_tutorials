@@ -1,9 +1,7 @@
 
 <br>
 
-## Gradient를 이용한 미분값 구하기
-
-예제코드 [pytorch_tutorials/3.SimpleExamples/3.1.Gradient/Gradient.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.1.Gradient/Gradient.py)
+## [Gradient를 이용한 미분값 구하기](Gradient.py)
 
 파이토치를 이용하여 미분값을 구해보는 예제입니다.
 

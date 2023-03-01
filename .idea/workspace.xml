@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,12 +97,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.SimpleExamples/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="425">
                 <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="325">
+                <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,18 +156,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/MNIST_CGAN_TRAIN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="91" selection-start-line="91" selection-end-line="98" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -189,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.Tensors/1.Tensors.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.SimpleExamples.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/utils.py" />
@@ -240,6 +239,7 @@
         <option value="$PROJECT_DIR$/1.Tensors/README.md" />
         <option value="$PROJECT_DIR$/2.DataLoader/README.md" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/README.md" />
+        <option value="$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md" />
       </list>
     </option>
   </component>
@@ -550,16 +550,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.DataLoader/custom_DataLoader_transform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_GAN_NETWORK.py" />
     <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_GAN_TRAIN.py" />
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py">
@@ -908,6 +898,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="425">
             <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.1.Gradient/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="325">
+            <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
