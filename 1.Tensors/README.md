@@ -4,8 +4,6 @@
 
 # 파이토치 텐서 기본 사용법
 
-예제코드 [pytorch_tutorials/1.Tensors/tensor_operations.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/tensor_operations.py)
-
 파이토치에서 사용하는 텐서의 기본적인 연산에 관한 내용입니다.
 
 <br>
@@ -127,8 +125,6 @@ print(y[0, 0]) # 4.44
 
 
 # 파이토치 텐서 Reshape관련 
-
-예제코드 [pytorch_tutorials/1.Tensors/tensor_reshapes.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/1.Tensors/tensor_reshapes.py)
 
 ## 5. 텐서의 형태 변환 : reshape(), .view()
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Tensors/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.Tensors/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,12 +70,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2457">
-                <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+              <first_editor relative-caret-position="482">
+                <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.Tensors/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="521">
+                <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
               </first_editor>
               <second_editor />
             </state>
@@ -87,15 +99,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="9" column="28" selection-start-line="9" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_DCGAN_NETWORK.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -178,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/MNIST_Reg_Test.py" />
         <option value="$PROJECT_DIR$/3.SimpleExamples/3.5.MNIST_Regression/3.5.MNIST_Reg.md" />
         <option value="$PROJECT_DIR$/1.Tensors/1.Tensors.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.1.PretrainedClassification/imagenet_classes.txt" />
@@ -229,6 +231,7 @@
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/README.md" />
         <option value="$PROJECT_DIR$/6.GAN/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/1.Tensors/README.md" />
       </list>
     </option>
   </component>
@@ -254,25 +257,7 @@
             <path>
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="6.GAN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="6.GAN" type="462c0819:PsiDirectoryNode" />
-              <item name="6.1.MNIST_MLP_GAN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="6.GAN" type="462c0819:PsiDirectoryNode" />
-              <item name="6.2.MNIST_DCGAN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="6.GAN" type="462c0819:PsiDirectoryNode" />
-              <item name="6.3.MNIST_CGAN" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Tensors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -546,15 +531,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5.TransferLearningFineTuning/TL_FT_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -899,8 +875,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2457">
-            <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+          <first_editor relative-caret-position="482">
+            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Tensors/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="521">
+            <caret line="287" lean-forward="true" selection-start-line="287" selection-end-line="287" />
           </first_editor>
           <second_editor />
         </state>
