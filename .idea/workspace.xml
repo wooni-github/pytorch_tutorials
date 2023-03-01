@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_NETWORK.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_NETWORK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_TEST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/10000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/10000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/100000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/100000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/105000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/105000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/110000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/110000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/115000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/115000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/120000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/120000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/15000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/15000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/20000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/20000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/25000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/25000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/30000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/30000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/35000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/35000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/40000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/40000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/45000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/45000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/5000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/5000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/50000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/50000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/55000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/55000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/60000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/60000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/65000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/65000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/70000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/70000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/75000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/75000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/80000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/80000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/85000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/85000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/90000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/90000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/95000.png" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/95000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_0.pth" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_0.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_100.pth" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_100.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_150.pth" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_150.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_200.pth" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_200.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_50.pth" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/result/G_50.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_CNN_GAN_NETWORK.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_CNN_GAN_TEST.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/MNIST_CNN_GAN_TRAIN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.GAN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +34,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="532">
+                <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -77,18 +54,6 @@
                 <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_TRAIN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -144,12 +109,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="771">
-                <caret line="165" column="41" selection-start-line="165" selection-start-column="41" selection-end-line="165" selection-end-column="41" />
+              <first_editor relative-caret-position="696">
+                <caret line="163" selection-start-line="163" selection-end-line="163" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -240,7 +205,6 @@
         <option value="$PROJECT_DIR$/5.TrasnferLearningFineTuning/README.md" />
         <option value="$PROJECT_DIR$/5.TransferLearningFineTuning/README.md" />
         <option value="$PROJECT_DIR$/5.TransferLearningFineTuning/TL_FT_Train.py" />
-        <option value="$PROJECT_DIR$/6.GAN/README.md" />
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_GAN_TRAIN.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_TRAIN2.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.1.MNIST_MLP_GAN/README.md" />
@@ -263,6 +227,7 @@
         <option value="$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/README.md" />
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/MNIST_CGAN_TEST.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/README.md" />
+        <option value="$PROJECT_DIR$/6.GAN/README.md" />
       </list>
     </option>
   </component>
@@ -697,16 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="11" column="94" selection-start-line="11" selection-start-column="94" selection-end-line="11" selection-end-column="94" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.GAN/6.3.MNIST_MLP_CGAN/result/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -933,8 +888,18 @@
     <entry file="file://$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="771">
-            <caret line="165" column="41" selection-start-line="165" selection-start-column="41" selection-end-line="165" selection-end-column="41" />
+          <first_editor relative-caret-position="696">
+            <caret line="163" selection-start-line="163" selection-end-line="163" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="532">
+            <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>

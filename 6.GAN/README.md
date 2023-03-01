@@ -9,10 +9,6 @@
 
 ## [GAN : MNIST MLP](https://github.com/wooni-github/pytorch_tutorials/blob/main/6.GAN/6.1.MNIST_MLP_GAN/README.md)
 
-[Training] 예제코드 [pytorch_tutorials/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Train.py)
-
-[Inference] 예제코드 [pytorch_tutorials/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/6.GAN/6.1.MNIST_MLP_GAN/MNIST_MLP_GAN_Test.py)
-
 우선 앞서 `MNIST Image Classification`에서 `CNN`이 아닌 `MLP`로 분류를 진행했던 것과 비슷한 [[Link]](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/README.md) `MLP`를 이용한 생성 모델 예제입니다.
 
 ![MLP_GAN](6.1.MNIST_MLP_GAN/MNIST_MLP_GAN.gif)
@@ -23,3 +19,18 @@
 
 대표적으로 특정 숫자(범주/클래스)의 이미지만을 생성해 낼 수 없죠.
 
+
+<br>
+
+## [DCGAN (Deep Convolutional GAN) : MNIST CNN](6.2.MNIST_DGAN/README.md)
+
+네트워크 구조를 `MLP` 대신 `CNN`을 사용한 `GAN`입니다.
+
+
+<br>
+
+## [CGAN (Conditional GAN) : MNIST](6.3.MNIST_CGAN/README.md)
+
+0~9라는 조건을 통해 0~9에 맞는 숫자 이미지를 `CGAN`입니다.
+
+!['MNIST_DCGAN`](6.3.MNIST_CGAN/MNIST_CGAN.png)
