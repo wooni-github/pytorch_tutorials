@@ -9,7 +9,7 @@
 
 ## [GAN : MNIST MLP](6.1.MNIST_MLP_GAN/README.md)
 
-우선 앞서 `MNIST Image Classification`에서 `CNN`이 아닌 `MLP`로 분류를 진행했던 것과 비슷한 [[Link]](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/README.md) `MLP`를 이용한 생성 모델 예제입니다.
+우선 앞서 `MNIST Image Classification`에서 `CNN`이 아닌 `MLP`로 분류를 진행했던 것과 비슷한 [[Link]](../3.SimpleExamples/3.3.MNIST_MLP/) `MLP`를 이용한 생성 모델 예제입니다.
 
 ![MLP_GAN](6.1.MNIST_MLP_GAN/MNIST_MLP_GAN.gif)
 
@@ -29,7 +29,7 @@
 
 <br>
 
-## [CGAN (Conditional GAN) : MNIST](6.3.MNIST_CGAN/README.md)
+## [CGAN (Conditional GAN) : MNIST](6.3.MNIST_CGAN/)
 
 0~9라는 조건을 통해 0~9에 맞는 숫자 이미지를 `CGAN`입니다.
 
