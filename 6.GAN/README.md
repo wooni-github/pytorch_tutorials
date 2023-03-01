@@ -31,6 +31,6 @@
 
 ## [CGAN (Conditional GAN) : MNIST](6.3.MNIST_CGAN/)
 
-라벨 0~9 라는 조건을 통해 0~9에 맞는 숫자 이미지를 `CGAN`입니다.
+라벨 0~9 라는 조건을 통해 숫자 이미지를 생성하는 `CGAN`입니다.
 
 !['MNIST_DCGAN`](6.3.MNIST_CGAN/MNIST_CGAN.png)
