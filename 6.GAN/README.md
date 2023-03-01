@@ -7,7 +7,7 @@
 
 최근에는 너무나도 대단한 모델들이 나오고 있지만, 간단한 기초적 예제들만 살펴보겠습니다. 저도 아직은 입문자라, 깊은 범위까지는 모르지만요!
 
-## [GAN : MNIST MLP](https://github.com/wooni-github/pytorch_tutorials/blob/main/6.GAN/6.1.MNIST_MLP_GAN/README.md)
+## [GAN : MNIST MLP](6.1.MNIST_MLP_GAN/README.md)
 
 우선 앞서 `MNIST Image Classification`에서 `CNN`이 아닌 `MLP`로 분류를 진행했던 것과 비슷한 [[Link]](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/README.md) `MLP`를 이용한 생성 모델 예제입니다.
 
@@ -22,7 +22,7 @@
 
 <br>
 
-## [DCGAN (Deep Convolutional GAN) : MNIST CNN](6.2.MNIST_DGAN/README.md)
+## [DCGAN (Deep Convolutional GAN) : MNIST CNN](6.2.MNIST_DCGAN/README.md)
 
 네트워크 구조를 `MLP` 대신 `CNN`을 사용한 `GAN`입니다.
 
