@@ -5,9 +5,9 @@ from MNIST_MLP_GAN_NETWORK import *
 
 if __name__ == '__main__':
 
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    G = Generator().to(device)
+    G = Generator().to(DEVICE)
     G.eval()
 
     folder_name = 'result/'
@@ -16,7 +16,7 @@ if __name__ == '__main__':
     for i in range(5): # 50 EPOCH마다 저장한 weights를 불러와서
         G.load_state_dict(torch.load(folder_name + 'G_' + str(i * 50) + '.pth'))
         for j in range(5): # 5개의 이미지를 생성
-            z = torch.randn(1, latent_size).to(device) # latent vector로부터
+            z = torch.randn(1, latent_size).to(DEVICE) # latent vector로부터
             fake_images = G(z) # G를 통해 이미지 생성
 
             fake_images = fake_images.reshape(fake_images.size(0), 1, 28, 28)

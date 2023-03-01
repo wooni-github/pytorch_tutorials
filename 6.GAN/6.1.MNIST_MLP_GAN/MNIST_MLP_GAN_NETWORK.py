@@ -1,9 +1,5 @@
-# 참고 : https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py
-
 import torch.nn as nn
 
-
-# hidden_size = 256
 latent_size = 100
 
 def denorm(x):
