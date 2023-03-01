@@ -22,7 +22,7 @@
 
 <br>
 
-## [DCGAN (Deep Convolutional GAN) : MNIST CNN](6.2.MNIST_DCGAN/README.md)
+## [DCGAN (Deep Convolutional GAN) : MNIST CNN](6.2.MNIST_DCGAN/)
 
 네트워크 구조를 `MLP` 대신 `CNN`을 사용한 `GAN`입니다.
 
