@@ -3,19 +3,13 @@
 
 ## MNIST image classification : **M**ulti-**L**ayer **P**erceptron (**MLP**) ~ **F**ully **C**onnected **L**ayers (**FCL**)
 
-[학습] 예제코드 [pytorch_tutorials/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Train.py)
-
-[추론] 예제코드 [pytorch_tutorials/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.3.MNIST_MLP/MNIST_MLP_Test.py)
-
 <br>
-
 
 `[W 28 x H 28 x C 1]` 크기의 digit 0~9까지 10개의 클래스를 갖는 데이터셋 MNIST에 대한 MLP 예제입니다.
 
 이미지 분류 (Image Classification) 하면 가장 나오는 예제죠!
 
 이번 예제에서는 다중 퍼셉트론(**M**ulti **L**ayer **P**erceptron)를 이용합니다.
-
 
 <br>
 
@@ -134,7 +128,7 @@ def forward(self, x):
 
 이후 `MNIST_MLP_Train.py` 입니다.
 
-전체적인 구조는 [Linear regression](https://github.com/wooni-github/pytorch_tutorials/blob/main/3.SimpleExamples/3.2.LinearRegression/3.2.LinearRegression.md) 예제와 동일하지만, 일부 변경점이 있습니다.
+전체적인 구조는 [Linear regression](../3.2.LinearRegression/) 예제와 동일하지만, 일부 변경점이 있습니다.
 
 ```python
 USE_CUDA = torch.cuda.is_available()
@@ -171,7 +165,7 @@ train_loader = torch.utils.data.DataLoader(
     batch_size=BATCH_SIZE, shuffle=True) # Training 단계에서는 shuffle 수행
 ```
 
-앞서 [2. DataLoader](https://github.com/wooni-github/pytorch_tutorials/blob/main/2.DataLoader/2.DataLoader.md) 에서 살펴봤던 것 처럼,
+앞서 [2. DataLoader](../2.DataLoader/) 에서 살펴봤던 것 처럼,
 데이터로더에서 `train, transform, batch_size, shuffle`을 설정해줍니다.
 
 <br>
