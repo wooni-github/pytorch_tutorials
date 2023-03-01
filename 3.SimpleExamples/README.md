@@ -5,8 +5,6 @@
 
 ## [Gradient를 이용한 미분값 구하기](3.1.Gradient/)
 
-<br>
-
 ## [Linear regression](3.2.LinearRegression/)
 예제 $y = ax + b$ 
 
@@ -29,8 +27,6 @@ MNIST 데이터셋 MLP를 이용한 분류 예제입니다.
 MNIST 데이터셋 CNN을 이용한 분류 예제입니다.
 
 ![MLP_image](3.4.MNIST_CNN/MNIST_CNN.png)
-
-<br>
 
 ## [MNIST image regression](3.5.MNIST_Regression/)
 
