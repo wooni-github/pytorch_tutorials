@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15641ba-4837-4ab3-831e-4a78f2fe57af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/5.TransferLearningFineTuning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.TransferLearningFineTuning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.GAN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.GAN/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +34,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.SimpleExamples/3.2.LinearRegression/README.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="87" column="46" lean-forward="true" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
+              <first_editor relative-caret-position="225">
+                <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,12 +135,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.TransferLearningFineTuning/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+              <first_editor relative-caret-position="457">
+                <caret line="195" column="23" lean-forward="true" selection-start-line="195" selection-start-column="23" selection-end-line="195" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,7 +216,6 @@
         <option value="$PROJECT_DIR$/6.GAN/6.2.MNIST_DCGAN/README.md" />
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/MNIST_CGAN_TEST.py" />
         <option value="$PROJECT_DIR$/6.GAN/6.3.MNIST_CGAN/README.md" />
-        <option value="$PROJECT_DIR$/6.GAN/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/1.Tensors/README.md" />
         <option value="$PROJECT_DIR$/2.DataLoader/README.md" />
@@ -231,6 +230,7 @@
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.2.PretrainedSegmentation/README.md" />
         <option value="$PROJECT_DIR$/4.PretrainedNetworks/4.3.PretrainedHPE/README.md" />
         <option value="$PROJECT_DIR$/5.TransferLearningFineTuning/README.md" />
+        <option value="$PROJECT_DIR$/6.GAN/README.md" />
       </list>
     </option>
   </component>
@@ -320,6 +320,11 @@
               <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="5.TransferLearningFineTuning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch_tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch_tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="6.GAN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -830,16 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="371">
-            <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -988,8 +983,18 @@
     <entry file="file://$PROJECT_DIR$/5.TransferLearningFineTuning/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+          <first_editor relative-caret-position="457">
+            <caret line="195" column="23" lean-forward="true" selection-start-line="195" selection-start-column="23" selection-end-line="195" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.GAN/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
