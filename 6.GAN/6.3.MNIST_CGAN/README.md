@@ -3,6 +3,10 @@
 
 ## GAN : MNIST CGAN (Conditional GAN)
 
+- [Training 예제](MNIST_CGAN_TRAIN.py)
+
+- [Inference 예제](MNIST_CGAN_TEST.py)
+
 <br>
 
 이번에는 `Conditional GAN` 입니다. 
